@@ -1,8 +1,8 @@
 # Coordinates_Realsense
-YOLOV5 Object Mapping
+**YOLOV5 Object Mapping**
 https://drive.google.com/drive/folders/1HA0tLD2Dx53vsSsnlcgeOu4Hce-Hfys_
 
-Build Pyrealsense2 for Jetson nano(make sure you installed python3.8 installed)
+**Build Pyrealsense2 for Jetson nano(make sure you installed python3.8 installed)**
 https://lieuzhenghong.com/how_to_install_librealsense_on_the_jetson_nx/
 
 change model in run() function : yolov5s.pt >> yourmodel.pt for custom model
