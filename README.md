@@ -6,3 +6,7 @@ Build Pyrealsense2 for Jetson nano(make sure you installed python3.8 installed)
 https://lieuzhenghong.com/how_to_install_librealsense_on_the_jetson_nx/
 
 change model in run() function : yolov5s.pt >> yourmodel.pt for custom model
+
+#Training a custom model
+
+Google colab : https://colab.research.google.com/drive/1lBragNzqlmN31nwGO1eP8lAYTDxezYSQ#scrollTo=yhy51y2dXNhB
